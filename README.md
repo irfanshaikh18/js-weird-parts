@@ -1,1 +1,1 @@
-# javascript-ref
+# js-weird-parts
